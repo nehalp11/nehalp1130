@@ -16,7 +16,7 @@
 
 ### 🚀 About Me
 
-- 🎓 2nd-year B.E. student specialising in **AI & Machine Learning** at MITE, Mangalore
+- 🎓 4th-year B.E. student specialising in **AI & Machine Learning** at MITE, Mangalore
 - 🔭 Currently building **TrendSense** — a fashion trend detection system using RAR-BERT + CLIP that predicts trends **6–8 weeks** before mainstream platforms
 - 🌱 Currently learning **LangChain, RAG pipelines, and model deployment**
 - 🏆 Participant — **Smart India Hackathon (SIH) 2025**
