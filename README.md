@@ -106,22 +106,4 @@ AI-powered financial chatbot analysing Microsoft, Tesla, and Apple data (2023–
 
 ---
 
-### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nehalp1130&show_icons=true&theme=tokyonight" alt="Nehal's GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nehalp1130&theme=tokyonight" alt="Nehal's GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nehalp1130&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
-
-<p align="center">
-  <i>Open to AI/ML internships and placement opportunities — let's connect!</i>
-</p>
